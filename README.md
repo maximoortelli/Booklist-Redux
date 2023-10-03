@@ -34,7 +34,10 @@
 
 # 📖 Bookstore <a name="about-project"></a>
 
-**Bookstore** This project i will lay the foundations for my Bookstore website. I will create the user interface using React.
+**Bookstore** This project i will lay the foundations for my Bookstore website. I will create the user interface using React and Redux. In this step, i will implement Redux Toolkit inside of a React application. I will:
+
+- Setup a Redux store.
+- Create a slice to save your state and reducers.
 
 #### Learning objectives
 

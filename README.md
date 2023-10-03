@@ -74,14 +74,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Setup a new React application using Create React App**
-- **Create a directory for your reusable components: /components.**
-- **Install React Router V6**
-- **Setup your router inside of <App>**
+- **Add Redux Toolkit (npm install react-redux @reduxjs/toolkit).**
+- **Create a directory that will contain all your Redux logic (/src/redux)**
+- **Configure a Redux store (/src/redux/store.js)**
+- **Define a slice of state for books that**
 - **Add 2 routes in your application, each should render a page component**
-- **reate components inside of the /components directory**
-- **Modular Structure**
-- **JavaScript Functionality**
+- **Define a slice of state for categories**
+- **Includes an array of categories (initial state: empty array)**
+- **Includes a reducer that checks the status and always returns "Under construction" (the initial state should check to that string)**
 - **Gitflow**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-    <img src="./bookstore.png" alt="logo" width="150"  height="auto" />
     <h1><b>Booklist-Redux</b></h1>
 </div>
 

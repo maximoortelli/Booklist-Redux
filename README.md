@@ -105,8 +105,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```bash
-  cd math-magiciansa
-  git clone https://github.com/maximoortelli/Bookstore.git
+  cd booklist
+  git clone https://github.com/maximoortelli/Booklist-Redux.git
 ```
 
 ### Install

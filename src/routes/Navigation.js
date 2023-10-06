@@ -12,7 +12,7 @@ const Navigation = () => (
         {/* Link to the initial page */}
       </li>
       <li>
-        <Link className="link" to="/categories">Categories</Link>
+        <Link className="link categories" to="/categories">Categories</Link>
         {/* Link to the category page */}
       </li>
     </ul>

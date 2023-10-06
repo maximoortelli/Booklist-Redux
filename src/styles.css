@@ -92,6 +92,10 @@ nav ul li a {
   font-family: var(--font-family-primary);
 }
 
+.categories {
+  color: #c4c4c4;
+}
+
 .nav-list {
   gap: 2.5rem;
 }

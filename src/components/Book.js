@@ -39,7 +39,7 @@ const Book = ({ book }) => {
           <CircularProgressbar />
         </div>
         <div className="advance-percent-completed">
-          <p className="advance-percent fontsty-normal montserrat">0%</p>
+          <p className="advance-percent fontsty-normal montserrat">80%</p>
           <p className="advance-completed fontsty-normal montserrat">Completed</p>
         </div>
       </div>

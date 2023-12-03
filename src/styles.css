@@ -117,6 +117,7 @@ nav ul li a {
   background-color: #fff;
   margin: 1rem 6.25rem;
   padding: 2rem 1.5rem;
+  border-radius: 10px;
 }
 
 .book-content {
@@ -269,9 +270,9 @@ button.button-update {
 }
 
 .book-content h3 {
-  font-size: 22px;
+  font-size: 19px;
   color: #121212;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 .form-container {
